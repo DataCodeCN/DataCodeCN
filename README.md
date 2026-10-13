@@ -135,8 +135,6 @@ Projetos públicos do perfil, com espaço para destacar os repositórios mais re
 
 </div>
 
-> Os cards fixados acima usam nomes de repositórios conhecidos dos projetos em que trabalhei. Se algum deles não existir sob `DataCodeCN`, substitua o parâmetro `repo` pelo nome correto do repositório ou remova o card.
-
 ---
 
 ## `04` — GitHub Analytics
@@ -215,8 +213,6 @@ Projetos públicos do perfil, com espaço para destacar os repositórios mais re
   </picture>
 
 </div>
-
-> **Configuração necessária:** a imagem acima só aparecerá depois que o workflow do GitHub Actions gerar e publicar os arquivos SVG na branch `output`.
 
 ---
 
