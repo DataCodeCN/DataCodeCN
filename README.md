@@ -42,7 +42,7 @@
 
 ---
 
-## `01` — Sobre mim
+## — Sobre mim
 
 Sou Alexsandro Costa Nunes, profissional da área de **Engenharia de Dados e Analytics**.
 
@@ -60,7 +60,7 @@ Gosto de entender o problema antes de escolher a ferramenta — porque uma solu�
 
 ---
 
-## `02` — Stack tecnológica
+## — Stack tecnológica
 
 <div align="center">
 
@@ -103,7 +103,7 @@ Gosto de entender o problema antes de escolher a ferramenta — porque uma solu�
 
 ---
 
-## `03` — Projetos em destaque
+## — Projetos em destaque
 
 Projetos públicos do perfil, com espaço para destacar os repositórios mais relevantes.
 
@@ -137,7 +137,7 @@ Projetos públicos do perfil, com espaço para destacar os repositórios mais re
 
 ---
 
-## `04` — GitHub Analytics
+## — GitHub Analytics
 
 <div align="center">
 
@@ -168,7 +168,7 @@ Projetos públicos do perfil, com espaço para destacar os repositórios mais re
 
 ---
 
-## `05` — Histórico de atividade
+## — Histórico de atividade
 
 <div align="center">
 
@@ -184,7 +184,7 @@ Projetos públicos do perfil, com espaço para destacar os repositórios mais re
 
 ---
 
-## `06` — GitHub Trophies
+## — GitHub Trophies
 
 <div align="center">
 
@@ -198,7 +198,7 @@ Projetos públicos do perfil, com espaço para destacar os repositórios mais re
 
 ---
 
-## `07` — Snake Contribution
+## — Snake Contribution
 
 <div align="center">
 
@@ -216,7 +216,7 @@ Projetos públicos do perfil, com espaço para destacar os repositórios mais re
 
 ---
 
-## `08` — Vamos nos conectar?
+## — Vamos nos conectar?
 
 <div align="center">
 
